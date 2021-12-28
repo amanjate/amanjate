@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amanjate
+- 👀 I’m interested in programming. My favourite languages are Java, JavaScript and PHP.
+- 🌱 I’m currently learning Python, Kotlin and Golang.
+- 💞️ I’m looking to collaborate on project that can lead me to the next level.
+- 📫 You can find me at amanjate@outlook.com.
